@@ -1,4 +1,4 @@
-# Tria Testnet Scripts 🚀
+# Tria Testnet Scripts 🚀 
 
 This collection of Python scripts empowers you to interact seamlessly with the Tria Testnet, a blockchain test network for decentralized applications. The core script, `main.py`, offers automation and multi-account support for core testnet activities.
 
